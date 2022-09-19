@@ -1,0 +1,19 @@
+{
+  "name": "fl-validation",
+  "version": "1.46.6",
+  "authors": [
+    "Laurent Goudet <laurent@freelancer.com>"
+  ],
+  "description": "Collection of directives useful for Form validation purpose",
+  "main": [
+    "validation.js",
+    "directive/flDifferentFrom.js",
+    "directive/flEnsureUnique.js",
+    "directive/flGuardpost.js",
+    "directive/flInvalidIf.js",
+    "directive/flRepeatPassword.js"
+  ],
+  "license": "Freelancer",
+  "homepage": "https://gitlab.freelancer.com/angular/fl-angular",
+  "private": true
+}
